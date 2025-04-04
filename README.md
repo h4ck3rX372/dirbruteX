@@ -33,8 +33,8 @@ Follow these steps to use **H4ck3rX** for directory brute-forcing:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/h4ck3rx.git
-   cd h4ck3rx
+   git clone https://github.com/h4ck3rX372/dirbruteX.git
+   cd dirbruteX
    python dirbrute.py
 
 ```
