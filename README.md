@@ -27,6 +27,16 @@ H4ck3rX is a powerful and customizable **directory brute-force scanner** written
 
 ---
 
+## 🚀 Steps to Use
+
+Follow these steps to use **H4ck3rX** for directory brute-forcing:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/h4ck3rx.git
+   cd h4ck3rx
+   python dirbrute.py
+
 ```
 h4ck3rx/
 │
