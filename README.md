@@ -36,9 +36,9 @@ h4ck3rx/
 ├── images/           # Screenshots or banner images
 └── results/          # Output files (if saved)
 ```
-           # Output files (if saved)
 
-✨ Author
-Mohammed
-🧠 Learning, building, hacking
+## ✨ Author
+
+**Mohammed**  
+🧠 Learning, building, hacking  
 📬 Feel free to connect!
