@@ -4,7 +4,7 @@
 
 Banner-Image
 
-![banner](images/image1.png)
+![banner](images/image1.PNG)
 
 Output-Image
 
