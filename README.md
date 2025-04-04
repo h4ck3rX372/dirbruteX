@@ -27,13 +27,16 @@ H4ck3rX is a powerful and customizable **directory brute-force scanner** written
 
 ---
 
+```
 h4ck3rx/
 │
-├── h4ck3rx.py           # Main Python script
-├── README.md            # This file
-├── wordlists/           # Folder for custom wordlists
-├── images/              # Screenshots or banner images
-└── results/             # Output files (if saved)
+├── h4ck3rx.py        # Main Python script
+├── README.md         # This file
+├── wordlists/        # Folder for custom wordlists
+├── images/           # Screenshots or banner images
+└── results/          # Output files (if saved)
+```
+           # Output files (if saved)
 
 ✨ Author
 Mohammed
